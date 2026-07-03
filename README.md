@@ -51,19 +51,19 @@ Certain merchant categories exhibited unusually high fee deviations.
 
 ## Overview
 
-![Overview](Images/Overview.png)
+![Overview](Overview.png)
 
 ---
 
 ## Customer & Segment
 
-![Customer Segment](Images/Customer.png)
+![Customer Segment](Customer.png)
 
 ---
 
 ## Transaction & Merchant
 
-![Transaction Merchant](Images/Transaction.png)
+![Transaction Merchant](Transaction.png)
 
 Dashboard Demo:
 
